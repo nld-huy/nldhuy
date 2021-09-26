@@ -17,7 +17,7 @@ elif Number < 75:
 elif Number >= 75:
     print("Hint 2: Number >= 75")
 	
-#Hint3: Showing if this number can devide for 3,5,7,10
+#Hint3: Showing if this number is divisible by 3,5,7,10
 hint3 = [3,5,7,10]
 chuoi_hint3 = []
 check_hint3 = 0 
