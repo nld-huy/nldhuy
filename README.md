@@ -1,1 +1,2 @@
-# nldhuy
+Making simple games using Python 
+Such as: Guessing Number, Rock-Paper-Scissors,...
